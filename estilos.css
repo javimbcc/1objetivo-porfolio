@@ -1,14 +1,7 @@
 * {
-  text-align: center;
-  align-items: center;
-  align-content: center;
+  
 }
 
-.back-page {
-  text-align: center;
-  align-items: center;
-  align-content: center;
-}
 
 .page-header {
   margin: 16px;
@@ -29,14 +22,14 @@
 .social-media {
   flex-direction: column;
   display: flex;
-  margin-left: 64px;
+  margin-left: 16px;
 }
 
 .social-media-button {
   padding: 8px;
   text-decoration: none;
   background-color: grey;
-  width: 80px;
+  width: 200px;
   border-radius: 16px;
   margin: 8px;
 }
