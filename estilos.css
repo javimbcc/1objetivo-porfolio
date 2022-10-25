@@ -1,23 +1,49 @@
 * {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
 
+.back-page {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
+.page-header {
+  margin: 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+.page-header-data {
+  display: flex;
+  flex-direction: column;
+  padding-left: 32px;
+}
+
+.header-image {
+  border-radius: 16px;
 }
 
 .social-media {
-    flex-direction: column;
-    display: flex;
+  flex-direction: column;
+  display: flex;
+  margin-left: 64px;
 }
 
 .social-media-button {
-    padding: 8px;
-    text-decoration: none;
-    background-color: grey;
-    width: 80px;
-    border-radius: 16px;
+  padding: 8px;
+  text-decoration: none;
+  background-color: grey;
+  width: 80px;
+  border-radius: 16px;
+  margin: 8px;
 }
 
 .social-media-text {
-    color: black;
-    text-align: center;
-    align-items: center;
-    align-content: center;
+  color: black;
+  text-align: center;
+  align-items: center;
+  align-content: center;
 }
