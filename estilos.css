@@ -1,0 +1,23 @@
+* {
+
+}
+
+.social-media {
+    flex-direction: column;
+    display: flex;
+}
+
+.social-media-button {
+    padding: 8px;
+    text-decoration: none;
+    background-color: grey;
+    width: 80px;
+    border-radius: 16px;
+}
+
+.social-media-text {
+    color: black;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
